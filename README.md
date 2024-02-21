@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Francesco Lazzarotto</h1>
 <h3 align="center">A technology enthusiast from Italy.</h3>
 
-- 🔭 I’m currently working on **My bachelor's thesis: a model based on recurrent neural network for the automatic generation of monophonic music.**
+- 🔭 I’m currently working on **My research project: Crafting an text-mining model to analyze sentiments and opinions within climate change-related tweets and confronting them with real climate change data. Integrating diverse datasets and leveraging different technologies**
 
-- 🌱 I’m currently learning **Tensorflow, Keras and Weka**
+- 🌱 I’m currently learning **NLTK, Keras and Weka**
 
 - 📫 How to reach me **checcolazzarotto@gmail.com / francesco.lazzarotto@edu.unito.it**
 
